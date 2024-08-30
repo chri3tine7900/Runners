@@ -1,0 +1,8 @@
+Alice Jones,45.2,48.5
+Shannon Osborne,47.3,47.8
+Emma Dunn,56.3,58.2
+Grace Bill,53.4,54.9
+Helen Kim,47.1,49.9
+Isabel Turner,50.2,52.6
+Katie John,50.5,47.1
+Lianne Cameron,48.2,47.3
